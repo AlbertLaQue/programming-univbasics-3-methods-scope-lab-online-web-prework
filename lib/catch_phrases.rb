@@ -1,6 +1,4 @@
-def phrase
-  puts "It's-a Me Mario!"
-end
+
 
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
