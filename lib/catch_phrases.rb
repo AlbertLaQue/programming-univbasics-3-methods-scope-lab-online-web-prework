@@ -16,6 +16,6 @@ def link
   puts advice
 end
 #TEST 4
-def any_phrase
-  
+def any_phrase(phrase)
+  phrase = 
 end
